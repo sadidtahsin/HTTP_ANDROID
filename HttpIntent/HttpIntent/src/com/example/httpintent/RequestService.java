@@ -87,7 +87,6 @@ public class RequestService extends IntentService {
 			}else{
 				st="";
 				toastMsg="Wrong Input!";
-				String sad="sadid";
 			}
 			
 		}else{
